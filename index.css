@@ -1,0 +1,21 @@
+body {
+    background-color: #f7f7f5;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100px;
+    margin-top: 500px;
+    color: #ccbbba;
+    padding: 600px;
+    padding: 50px;
+    text-align: center;
+}
+
+input {
+    margin-left: 500px;
+    width: 600px;
+    padding: 15px;
+    border-radius: 30px;
+    margin-bottom: 700px;
+}
